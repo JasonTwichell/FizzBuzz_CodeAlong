@@ -1,0 +1,12 @@
+.tagWide{
+    min-width: 100%;
+}
+
+.fizz{
+    color: red;
+    font-size: larger;
+}
+.buzz{
+    color: blue;
+    font-size: larger;
+}
